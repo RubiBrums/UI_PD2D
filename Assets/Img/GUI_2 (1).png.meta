@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 180d4640c87fa47428f1ad8b86170b03
+guid: 94be4e012134b6b479947e6c25259c34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 784418791147374142
-    second: Logo_COCOCORRE_0
+      213: -2364946863013481035
+    second: GUI_2 (1)_0
+  - first:
+      213: -5338904179632770125
+    second: GUI_2 (1)_1
+  - first:
+      213: 6435236799021170797
+    second: GUI_2 (1)_2
+  - first:
+      213: -1907824045447470989
+    second: GUI_2 (1)_3
+  - first:
+      213: -5636789822010271689
+    second: GUI_2 (1)_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,43 +108,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Logo_COCOCORRE_0
+      name: GUI_2 (1)_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 55
-        width: 4214
-        height: 4214
+        x: 19
+        y: 15
+        width: 1150
+        height: 788
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +127,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e360b790cb0d2ea00800000000000000
-      internalID: 784418791147374142
+      spriteID: 5b5386dab550e2fd0800000000000000
+      internalID: -2364946863013481035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 402
+        width: 533
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f3237fe668e5b0800000000000000
+      internalID: -5338904179632770125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 210
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60cd2bf5cd8e4950800000000000000
+      internalID: 6435236799021170797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 210
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370a725832c0685e0800000000000000
+      internalID: -1907824045447470989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 85
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7385a89958916c1b0800000000000000
+      internalID: -5636789822010271689
       vertices: []
       indices: 
       edges: []
@@ -160,8 +234,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Logo_COCOCORRE_0: 784418791147374142
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

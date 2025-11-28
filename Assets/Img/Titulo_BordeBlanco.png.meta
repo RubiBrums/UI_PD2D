@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Titulo_BordeBlanco_0: 2661946746782249056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
