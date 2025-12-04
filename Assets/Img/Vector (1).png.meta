@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d5987b5ac8b5c6340961e29496e24af0
+guid: 0a848a9c3d480f444b7c4d3a7e4160e4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3748960682041977287
-    second: Thumbnail_GusanoEscurridizo_0
+      213: -5800047418597522962
+    second: Vector (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Thumbnail_GusanoEscurridizo_0
+      name: Vector (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 221
-        height: 104
+        width: 600
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9365bfd5f1409fbc0800000000000000
-      internalID: -3748960682041977287
+      spriteID: ee1c21e4a97128fa0800000000000000
+      internalID: -5800047418597522962
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Thumbnail_GusanoEscurridizo_0: -3748960682041977287
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

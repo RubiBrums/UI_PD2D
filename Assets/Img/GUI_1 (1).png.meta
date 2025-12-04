@@ -156,6 +156,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -634,7 +673,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GUI_1 (1)_0: -3910485746131249945
+      GUI_1 (1)_1: 5027228205274996706
+      GUI_1 (1)_10: -309198053285765313
+      GUI_1 (1)_11: -1806322865179380015
+      GUI_1 (1)_12: -6870397764180611021
+      GUI_1 (1)_13: -6321413808235773607
+      GUI_1 (1)_14: 6460291145936507167
+      GUI_1 (1)_15: -2869047509184066009
+      GUI_1 (1)_16: -6291205898686606738
+      GUI_1 (1)_17: -3855511391219309179
+      GUI_1 (1)_18: -8197147514723631390
+      GUI_1 (1)_19: -8436931379736646477
+      GUI_1 (1)_2: 7813500861152873523
+      GUI_1 (1)_20: 2033912815147029066
+      GUI_1 (1)_3: -2048557573871620628
+      GUI_1 (1)_4: 7637791565905274903
+      GUI_1 (1)_5: -2749606181205520709
+      GUI_1 (1)_6: 871897254337446518
+      GUI_1 (1)_7: -7496471406985577028
+      GUI_1 (1)_8: 8474395048549444043
+      GUI_1 (1)_9: 1856896627337828077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

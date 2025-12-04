@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: d5987b5ac8b5c6340961e29496e24af0
+guid: 272cb06445254754b8f3c4ea4082a084
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3748960682041977287
-    second: Thumbnail_GusanoEscurridizo_0
+      213: 1648970944899146405
+    second: GUI_2 (2)_0
+  - first:
+      213: -3730097338060158961
+    second: GUI_2 (2)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,10 +75,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Thumbnail_GusanoEscurridizo_0
+      name: GUI_2 (2)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 221
-        height: 104
+        x: 19
+        y: 186
+        width: 632
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +157,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9365bfd5f1409fbc0800000000000000
-      internalID: -3748960682041977287
+      spriteID: 5a267a7765252e610800000000000000
+      internalID: 1648970944899146405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_2 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 54
+        width: 632
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084b43eb380c3cc0800000000000000
+      internalID: -3730097338060158961
       vertices: []
       indices: 
       edges: []
@@ -174,7 +199,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Thumbnail_GusanoEscurridizo_0: -3748960682041977287
+      GUI_2 (2)_0: 1648970944899146405
+      GUI_2 (2)_1: -3730097338060158961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

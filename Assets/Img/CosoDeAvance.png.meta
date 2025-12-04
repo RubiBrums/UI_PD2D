@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d5987b5ac8b5c6340961e29496e24af0
+guid: c3f3e6abaf284d14dbe9bcbbb41fcf23
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3748960682041977287
-    second: Thumbnail_GusanoEscurridizo_0
+      213: 7367762608379588758
+    second: CosoDeAvance_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,10 +46,10 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
+  alignment: 4
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Thumbnail_GusanoEscurridizo_0
+      name: CosoDeAvance_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 221
-        height: 104
+        width: 136
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9365bfd5f1409fbc0800000000000000
-      internalID: -3748960682041977287
+      spriteID: 690fed56e0d8f3660800000000000000
+      internalID: 7367762608379588758
       vertices: []
       indices: 
       edges: []
@@ -164,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Thumbnail_GusanoEscurridizo_0: -3748960682041977287
+      CosoDeAvance_0: 7367762608379588758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

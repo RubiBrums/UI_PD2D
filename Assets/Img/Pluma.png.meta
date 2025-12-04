@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d5987b5ac8b5c6340961e29496e24af0
+guid: dc166e38f6186574399838b43706d7ea
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3748960682041977287
-    second: Thumbnail_GusanoEscurridizo_0
+      213: -4359950603665760168
+    second: Pluma_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Thumbnail_GusanoEscurridizo_0
+      name: Pluma_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 221
-        height: 104
+        width: 206
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9365bfd5f1409fbc0800000000000000
-      internalID: -3748960682041977287
+      spriteID: 850a046a6085e73c0800000000000000
+      internalID: -4359950603665760168
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Thumbnail_GusanoEscurridizo_0: -3748960682041977287
+      Pluma_0: -4359950603665760168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
